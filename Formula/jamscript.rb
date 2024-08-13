@@ -1,7 +1,7 @@
 class Jamscript < Formula
   desc "Jam-themed esoteric programming language interpreter"
   homepage "https://github.com/arh96480/homebrew-jamscript"
-  url "https://github.com/arh96480/homebrew-jamscript/releases/download/v0.1/jamscript-1.0.tar.gz"
+  url "https://github.com/arh96480/homebrew-jamscript/releases/download/v0.2/jamscript-0.2.tar.gz"
   sha256 "c92e53436f1c17574a1a998d2a23fcec7c96afacc3792a5533c7c2060698f4cd"
 
   def install
